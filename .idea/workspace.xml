@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83aad0a7-4125-4630-a52b-743de1064233" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newcoder/src/interviewguide/IG2_TwoStacksQueue.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newcoder/src/interviewguide/IG3_ReverseStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newcoder/src/interviewguide/IG4_CatAndDogQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newcoder/src/interviewguide/IG1_MyStack.scala" beforeDir="false" afterPath="$PROJECT_DIR$/newcoder/src/interviewguide/IG1_MyStack.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/newcoder/interviewguide/IG1_MyStack$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/newcoder/interviewguide/IG1_MyStack$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/newcoder/interviewguide/MyStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/newcoder/interviewguide/MyStack.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1g0A10zZ7CJRVF6DmrQU0sF3Ccz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bigdata/flink-section" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.32847425" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="sortingalgorithm" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\ProgrammingSoftware\IntelliJ IDEA Workspace\datastructure\leetcode\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.IG4_CatAndDogQueue">
+    <configuration name="IG1_MyStack" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="interviewguide.IG1_MyStack" />
+      <module name="newcoder" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interviewguide.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IG2_TwoStacksQueue" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="interviewguide.IG2_TwoStacksQueue" />
+      <module name="newcoder" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interviewguide.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IG3_ReverseStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interviewguide.IG3_ReverseStack" />
+      <module name="newcoder" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interviewguide.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IG4_CatAndDogQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interviewguide.IG4_CatAndDogQueue" />
+      <module name="newcoder" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interviewguide.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LC1_TwoSum" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="array.LC1_TwoSum" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.IG4_CatAndDogQueue" />
+        <item itemvalue="Application.IG3_ReverseStack" />
+        <item itemvalue="Application.IG2_TwoStacksQueue" />
+        <item itemvalue="Application.IG1_MyStack" />
+        <item itemvalue="Application.LC1_TwoSum" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83aad0a7-4125-4630-a52b-743de1064233" name="Default Changelist" comment="" />
+      <created>1597240916089</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597240916089</updated>
+      <workItem from="1597240919673" duration="2205000" />
+      <workItem from="1597284390445" duration="70284000" />
+      <workItem from="1597589590523" duration="11719000" />
+      <workItem from="1597673930979" duration="63733000" />
+      <workItem from="1598075948678" duration="2266000" />
+      <workItem from="1598081984274" duration="23206000" />
+      <workItem from="1598187209094" duration="9175000" />
+      <workItem from="1598353137149" duration="70225000" />
+      <workItem from="1598958304854" duration="10032000" />
+      <workItem from="1599040063184" duration="19438000" />
+      <workItem from="1599381524035" duration="19782000" />
+      <workItem from="1599698475491" duration="15945000" />
+      <workItem from="1600267024945" duration="43000" />
+      <workItem from="1600337178947" duration="1557000" />
+      <workItem from="1600526300720" duration="12422000" />
+      <workItem from="1600737623689" duration="33988000" />
+      <workItem from="1602236196204" duration="2696000" />
+      <workItem from="1602381343883" duration="1193000" />
+      <workItem from="1602686461212" duration="1225000" />
+      <workItem from="1602813446930" duration="634000" />
+      <workItem from="1603965615042" duration="14107000" />
+      <workItem from="1606572215085" duration="1609000" />
+      <workItem from="1609214015052" duration="886000" />
+      <workItem from="1609224580301" duration="31683000" />
+      <workItem from="1609648763678" duration="3157000" />
+      <workItem from="1609939470124" duration="65134000" />
+      <workItem from="1610719969159" duration="22090000" />
+      <workItem from="1611288544731" duration="4751000" />
+      <workItem from="1614659048416" duration="49000" />
+      <workItem from="1627314300868" duration="36000" />
+      <workItem from="1627314587109" duration="383000" />
+      <workItem from="1627314981550" duration="92703000" />
+      <workItem from="1629331342224" duration="19728000" />
+      <workItem from="1630224078050" duration="38557000" />
+      <workItem from="1630934368803" duration="11780000" />
+      <workItem from="1633005605195" duration="39752000" />
+      <workItem from="1647098583116" duration="1365000" />
+      <workItem from="1647100138103" duration="31288000" />
+      <workItem from="1648011521546" duration="77994000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="261" y="0" key="#Deployment" timestamp="1647770201148">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="261" y="0" key="#Deployment/0.0.1536.824@0.0.1536.824" timestamp="1647770201148" />
+    <state x="525" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1647162807907">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="525" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1647162807907" />
+    <state x="530" y="62" key="#com.intellij.ide.util.MemberChooser" timestamp="1648997515985">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="530" y="62" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1648997515985" />
+    <state x="390" y="67" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1647272189051">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="390" y="67" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.824@0.0.1536.824" timestamp="1647272189051" />
+    <state x="93" y="93" width="1350" height="638" maximized="true" key="DiffContextDialog" timestamp="1647176006328">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" maximized="true" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1647176006328" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1649341845276">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1649341845276" />
+    <state width="1485" height="228" key="GridCell.Tab.0.bottom" timestamp="1649595432963">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1485" height="228" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1649595432963" />
+    <state width="1485" height="228" key="GridCell.Tab.0.center" timestamp="1649595432963">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1485" height="228" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1649595432963" />
+    <state width="1485" height="228" key="GridCell.Tab.0.left" timestamp="1649595432963">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1485" height="228" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1649595432963" />
+    <state width="1485" height="228" key="GridCell.Tab.0.right" timestamp="1649595432963">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1485" height="228" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1649595432963" />
+    <state width="1485" height="228" key="GridCell.Tab.1.bottom" timestamp="1649595432964">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1485" height="228" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1649595432964" />
+    <state width="1485" height="228" key="GridCell.Tab.1.center" timestamp="1649595432964">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1485" height="228" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1649595432964" />
+    <state width="1485" height="228" key="GridCell.Tab.1.left" timestamp="1649595432964">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1485" height="228" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1649595432964" />
+    <state width="1485" height="228" key="GridCell.Tab.1.right" timestamp="1649595432964">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1485" height="228" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1649595432964" />
+    <state x="308" y="0" key="SettingsEditor" timestamp="1647164459508">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="308" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1647164459508" />
+    <state x="389" y="197" key="com.intellij.ide.util.TipDialog" timestamp="1648011534257">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="389" y="197" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1648011534257" />
+    <state x="0" y="42" key="new project wizard" timestamp="1649341765278">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="42" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1649341765278" />
+  </component>
+</project>

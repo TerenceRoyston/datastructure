@@ -1,0 +1,34 @@
+package linkedlist;
+
+import java.util.HashSet;
+
+public class RemoveSame {
+    public static void main(String[] args) {
+
+        pending.ListNode node5 = new pending.ListNode(4, null);
+        pending.ListNode node4 = new pending.ListNode(2, node5);
+        pending.ListNode node3 = new pending.ListNode(3, node4);
+        pending.ListNode node2 = new pending.ListNode(2, node3);
+        pending.ListNode node1 = new pending.ListNode(1, node2);
+
+        removeSameNode(node1);
+        System.out.println(node3.next);
+
+    }
+
+    public static void removeSameNode(pending.ListNode head){
+        pending.ListNode temp=new pending.ListNode(0,head);
+        HashSet<Integer> hashSet = new HashSet<>();
+
+        while (temp.next!=null){
+            if (hashSet.contains(temp.next.val)){
+                temp.next.val=temp.next.next.val;
+                temp.next=temp.next.next;
+            }else {
+                hashSet.add(temp.next.val);
+            }
+
+            temp=temp.next;
+        }
+    }
+}
